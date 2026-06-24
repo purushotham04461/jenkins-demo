@@ -17,9 +17,7 @@ sudo systemctl start jenkins
 sudo yum install git -y
 
 # git push commands
-python3 demo.py
 
-touch index.py
 
 git config --global user.name "purushotham04461"
 git config --global user.email "spurushotham0446@gmail.com"
